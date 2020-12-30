@@ -1,4 +1,4 @@
 # Oxfor-Flowers-Image-Classifier
 Udacity Image Classification Project
 
-This is the deep learning part project of Udacity- Introduction to Machine Learning with TensorFlow - Connect Nanodegree Program
+This is the project of the deep learningp of Udacity- Introduction to Machine Learning with TensorFlow - Connect Nanodegree Program
